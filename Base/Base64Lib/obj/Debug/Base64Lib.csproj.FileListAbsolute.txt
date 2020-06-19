@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Annie\Base64\Base64Lib\bin\Debug\Base64Lib.dll
+C:\Users\User\Desktop\Annie\Base64\Base64Lib\bin\Debug\Base64Lib.pdb
+C:\Users\User\Desktop\Annie\Base64\Base64Lib\obj\Debug\Base64Lib.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Annie\Base64\Base64Lib\obj\Debug\Base64Lib.dll
+C:\Users\User\Desktop\Annie\Base64\Base64Lib\obj\Debug\Base64Lib.pdb
+C:\Users\User\Desktop\Annie\Base64\Base64Lib\obj\Debug\Base64Lib.csprojAssemblyReference.cache
